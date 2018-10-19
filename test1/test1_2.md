@@ -1,6 +1,6 @@
 # Oracle实验一自定义查询分析文档
 # 自定义查询：
-####自定义查询源代码
+#### 自定义查询源代码
 ```
      select d.department_name,l.city, count(*) 
      from employees e,departments d ,locations l 
@@ -8,11 +8,11 @@
      and d.location_id=l.location_id and e.salary>100
      group by d.department_name,l.city;
 ```
-####自定义查询结果
+#### 自定义查询结果
 ![自定义查询结果](./5.png)
-####自定义查询指导优化
+#### 自定义查询指导优化
 ![自定义查询优化](./6.png)
-####自定义查询详细过程
+#### 自定义查询详细过程
 ####
 ```
     GENERAL INFORMATION SECTION
