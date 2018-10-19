@@ -12,7 +12,7 @@
 #### 查询1图片
 ![查询1结果](./1.png)
 #### 查询1指导和优化
-![查询2结果](./photo/2.png)
+![查询2结果](./2.png)
 #### 查询1详细查询
 ```
 GENERAL INFORMATION SECTION
@@ -174,9 +174,9 @@ Column Projection Information (identified by operation id):
     
 ```
 #### 查询2图片
-![查询2结果](./photo/3.png)
+![查询2结果](./3.png)
 #### 查询2指导和优化
-![查询2结果](./photo/4.png)
+![查询2结果](./4.png)
 #### 查询2详细查询
 ```
 GENERAL INFORMATION SECTION
